@@ -5,7 +5,7 @@ def greet_programmer():
 
 greet_programmer()
 
-def greet(name="Guido"):
+def greet(name="Jaymo"):
     print(f"Hello, {name}!")
     
 greet()
